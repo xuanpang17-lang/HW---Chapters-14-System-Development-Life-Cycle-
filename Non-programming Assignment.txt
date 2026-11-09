@@ -1,0 +1,19 @@
+1. What is SDLC and what are its steps?
+SDLC (Software Development Life Cycle) is a process used to develop and maintain software.
+Its main steps are:
+1. Planning: Define project goals.
+2. Requirement Analysis: Identify user needs.
+3. Design: Design the software structure.
+4. Implementation: Write the code.
+5. Testing: Find and fix errors.
+6. Deployment: Release the software.
+7. Maintenance: Update and improve the software.
+
+2. List and describe different SDLC types.
+1. Waterfall Model: Development follows a sequence of steps.
+2. Agile Model: Develops software in small stages with frequent feedback.
+3. Iterative Model: Improves software through repeated cycles.
+4. Spiral Model: Focuses on risk analysis and repeated development.
+5. V-Model: Combines development stages with testing stages.
+6. Prototype Model: Creates an early version to collect user feedback.
+7. RAD Model: Focuses on fast software development.
